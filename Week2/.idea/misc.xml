@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1. JUnit_Basic Testing Exercises/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_Basic_Testing/pom.xml" />
+        <option value="$PROJECT_DIR$/Assertion_in_JUnit/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrangeActAssertPattern_TestFixturesSetupTeardownMethodsInJUnit/pom.xml" />
+        <option value="$PROJECT_DIR$/Mockito_Mocking_Stubbing_Exercises/pom.xml" />
+        <option value="$PROJECT_DIR$/Mocking_stubbing/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_basic_testing/pom.xml" />
+        <option value="$PROJECT_DIR$/JUnit_basic_test/pom.xml" />
+        <option value="$PROJECT_DIR$/Mocking_Stubbing/pom.xml" />
+        <option value="$PROJECT_DIR$/Verify_Interaction/pom.xml" />
+        <option value="$PROJECT_DIR$/Logging_exercise/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/JUnit_basic_testing/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
