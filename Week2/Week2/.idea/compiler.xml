@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Mocking_Stubbing" />
+        <module name="ArrangeActAssertPattern_TestFixturesSetupTeardownMethodsInJUnit" />
+        <module name="JUnit_basic_test" />
+        <module name="Logging_exercise" />
+        <module name="Verify_Interaction" />
+        <module name="Assertion_in_JUnit" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Assertion_JUnit" target="23" />
+      <module name="JUnit_Basic_Testing" target="23" />
+      <module name="Mocking_stubbing" target="23" />
+      <module name="Mockito_Mocking_Stubbing_Exercises" target="23" />
+      <module name="untitled" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
